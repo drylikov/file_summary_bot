@@ -1,0 +1,30 @@
+{
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "name": "file-summary-bot",
+  "repository": "https://github.com/ozgrozer/file-summary-bot.git",
+  "author": {
+    "name": "Ozgur Ozer",
+    "email": "ozgr@live.com",
+    "url": "https://github.com/ozgrozer"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "npm": "^10.x",
+    "node": "^18.x"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "groq-sdk": "^0.3.3",
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
