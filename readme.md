@@ -5,7 +5,7 @@ A Telegram bot powered by Llama3 (Groq) that provides summaries of a given TXT f
 Clone this repository
 
 ```
-git clone https://github.com/drylikov/file-summary-bot.git
+git clone https://github.com/drylikov/file_summary_bot.git
 ```
 
 Install dependencies
